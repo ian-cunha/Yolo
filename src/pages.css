@@ -1,0 +1,240 @@
+.home {
+  position: relative;
+  width: 100%;
+  height: auto;
+  padding-top: 15rem;
+  padding-bottom: 12rem;
+  background: url("assets/desktop.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+@media (max-width: 600px) {
+  .home {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 30rem;
+    padding-top: 20rem;
+    padding-bottom: 3rem;
+    background: url("assets/mobile.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+}
+
+.page1 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background: url("assets/objetivo.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+@media (max-width: 600px) {
+  .page1 {
+    text-align: center;
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 30rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background: url("assets/objetivo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+}
+
+.page2 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background: url("assets/investimento.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+@media (max-width: 600px) {
+  .page2 {
+    text-align: center;
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 30rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background: url("assets/investimento.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+}
+
+.page3 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background: url("assets/dna.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+@media (max-width: 600px) {
+  .page3 {
+    text-align: center;
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 30rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background: url("assets/dna.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+}
+
+.page4 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+  background: rgb(242, 42, 160);
+  background: linear-gradient(31deg, rgba(242, 42, 160, 1) 0%, rgba(255, 180, 3, 1) 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+@media (max-width: 600px) {
+  .page4 {
+    text-align: center;
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 30rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background: rgb(242, 42, 160);
+    background: linear-gradient(31deg, rgba(242, 42, 160, 1) 0%, rgba(255, 180, 3, 1) 100%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+}
+
+.page5 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background: url("assets/bgFive.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+@media (max-width: 600px) {
+  .page5 {
+    text-align: center;
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 30rem;
+    padding-top: 1rem;
+    padding-bottom: 3rem;
+    background: url("assets/bgFive.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+}
+
+.video {
+  position: relative;
+  width: 100%;
+  height: auto;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background: url("assets/video.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+@media (max-width: 600px) {
+  .video {
+    text-align: center;
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 30rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background: url("assets/video.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+}
+
+.footer {
+  position: relative;
+  width: 100%;
+  height: auto;
+  padding-top: 15rem;
+  padding-bottom: 15rem;
+  background-color: white;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+@media (max-width: 600px) {
+  .footer {
+    text-align: center;
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 30rem;
+    padding-top: 9rem;
+    padding-bottom: 5rem;
+    background-color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+}
