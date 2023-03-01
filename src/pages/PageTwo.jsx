@@ -5,9 +5,8 @@ function PageTwo() {
     <div className="page2" id="investimento">
       <div className="d-flex flex-column justify-content-center align-items-center p-5">
         <div className="contInv text-center">
-          <h2 className="textInvest">Manifesto</h2>
+          <h2 className="textInvest">Que mundo você quer fazer parte?</h2>
           <hr className="lineInv" />
-          <h3 className="inv2">Que mundo você quer fazer parte?</h3>
           <h5 className="inv2">Nós acreditamos e queremos um mundo com uma nova e transformadora visão da economia e da cidadania.
             Um mundo mais sustentável e colaborativo, em que ser vale mais que ter.</h5>
           <h5 className="inv2">Um mundo em que as pessoas conversem mais com o planeta. E conversem mais entre si.</h5>

@@ -19,12 +19,6 @@ function NavBar() {
                     </button>
                     <ul class="dropdown-menu menuDrop">
                       <li><a href="#home" class="dropdown-item" type="button">Início</a></li>
-                      <li><a href="#objetivo" class="dropdown-item" type="button">Objetivo</a></li>
-                      <li><a href="#investimento" class="dropdown-item" type="button">Investimento</a></li>
-                      <li><a href="#dna" class="dropdown-item" type="button">DNA</a></li>
-                      <li><a href="#obras" class="dropdown-item" type="button">Obras</a></li>
-                      <li><a href="#mov" class="dropdown-item" type="button">Mov. estratégico</a></li>
-                      <li><a href="#videos" class="dropdown-item" type="button">Videos</a></li>
                     </ul>
                   </div>
 
