@@ -3,15 +3,26 @@ import invImg from "../assets/invImg.png";
 function PageTwo() {
   return (
     <div className="page2" id="investimento">
-      <div className="d-flex flex-sm-row flex-column justify-content-between align-items-center p-5">
-        <div className="contInv">
-          <h2 className="textInvest">Investimento</h2>
+      <div className="d-flex flex-column justify-content-center align-items-center p-5">
+        <div className="contInv text-center">
+          <h2 className="textInvest">Manifesto</h2>
           <hr className="lineInv" />
-          <h5 className="inv2 col-9">O gestor do Opportunity explica que o fundo resolveu investir nesse modelo por entender que é preciso oferecer soluções eficientes de moradia, com serviços e conveniências para que o morador e o investidor estejam seguros de que fizeram uma excelente aquisição.
-          </h5>
-          <p className="invP">Matéria I O Globo I 04.07.2021</p>
+          <h3 className="inv2">Que mundo você quer fazer parte?</h3>
+          <h5 className="inv2">Nós acreditamos e queremos um mundo com uma nova e transformadora visão da economia e da cidadania.
+            Um mundo mais sustentável e colaborativo, em que ser vale mais que ter.</h5>
+          <h5 className="inv2">Um mundo em que as pessoas conversem mais com o planeta. E conversem mais entre si.</h5>
+          <h5 className="inv2">Onde a tecnologia deve aproximar e não isolar. Um mundo em que liberdade e responsabilidade dividem o mesmo espaço. Na verdade, vários espaços. Caminham juntas, em harmonia. Em comunidade.</h5>
+          <h5 className="inv2">Um mundo com menos fronteiras e cidades com menos muros.</h5>
+          <h5 className="inv2">É esse mundo que queremos construir e conectar. É esse mundo que queremos fazer parte. E você?</h5>
+
+          <h3 className="text-light">DNA</h3>
+          <hr className="lineInv2" />
+          <p className="text-light fw-semibold">INOVAÇÃO, DISRUPÇÃO, COLABORAÇÃO, INTERAÇÃO, TRANSFORMAÇÃO, PIONEIRISMO</p>
+
+          <h2 className="text-light invYolo">Yolo Coliving.<br />Faça parte.</h2>
         </div>
-        <img src={invImg} className="invImg" />
+
+
       </div>
     </div>
   )

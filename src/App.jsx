@@ -13,12 +13,7 @@ function App() {
     <div>
       <NavBar />
       <Home />
-      <PageOne />
       <PageTwo />
-      <PageThree />
-      <PageFour />
-      <PageFive />
-      <PageVideo />
       <Footer />
     </div>
   )
